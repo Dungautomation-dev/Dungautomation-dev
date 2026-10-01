@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dungauto"><img src="https://img.shields.io/badge/Developer-Dũng%20Automation-00e5ff?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Author"></a>
-  <a href="https://github.com/Dungauto"><img src="https://hits.sh/github.com/Dungauto.svg?style=for-the-badge&label=PROFILE+VIEWS&color=a855f7&labelColor=181717" alt="Profile Views"></a>
+  <a href="https://github.com/Dungautomation-dev"><img src="https://img.shields.io/badge/Developer-Dũng%20Automation-00e5ff?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Author"></a>
+  <a href="https://github.com/Dungautomation-dev"><img src="https://hits.sh/github.com/Dungautomation-dev.svg?style=for-the-badge&label=PROFILE+VIEWS&color=a855f7&labelColor=181717" alt="Profile Views"></a>
   <a href="https://tiktok.com/@dungautomation" target="_blank"><img src="https://img.shields.io/badge/TikTok-@dungautomation-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
   <img src="https://img.shields.io/badge/Location-Việt%20Nam-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
@@ -45,12 +45,12 @@
 ### 📊 Thống Kê Hoạt Động GitHub (GitHub Metrics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dungauto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=a855f7&text_color=cbd5e1" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dungauto&theme=tokyonight&hide_border=true&background=080B12&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF" height="175" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dungautomation-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=a855f7&text_color=cbd5e1" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dungautomation-dev&theme=tokyonight&hide_border=true&background=080B12&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF" height="175" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungauto&layout=compact&theme=tokyonight&hide_border=true&bg_color=080b12&title_color=00e5ff&text_color=cbd5e1" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungautomation-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=080b12&title_color=00e5ff&text_color=cbd5e1" height="155" alt="Top Languages" />
 </p>
 
 ---
@@ -59,9 +59,9 @@
 
 | Dự án | Mô tả | Công nghệ & Liên kết |
 | :--- | :--- | :--- |
-| 📘 **[github-mastery-guide](https://github.com/Dungauto/github-mastery-guide)** | Cẩm nang làm chủ Git & GitHub từ Zero đến Hero, tích hợp hệ thống đa Tab, mô phỏng cây nhánh trực quan, từ điển lệnh tra cứu nhanh. | `HTML5` `CSS3` `JavaScript` `GitHub Pages`<br>👉 [Xem Trực Tuyến](https://dungauto.github.io/github-mastery-guide/) |
-| 🌸 **[bonghoadepnhat](https://github.com/Dungauto/bonghoadepnhat)** | Nền tảng thiệp chúc mừng tương tác nghệ thuật dành tặng phụ nữ, nhận diện ngôn ngữ trình duyệt và tùy biến nội dung theo người nhận. | `Responsive Web` `CSS Animations` `i18n`<br>👉 [Xem Trực Tuyến](https://dungauto.github.io/bonghoadepnhat/) |
-| 🎂 **[thiepsinhnhat](https://github.com/Dungauto/thiepsinhnhat)** | Thiệp chúc mừng sinh nhật tương tác hiện đại với bánh kem, nến thắp sáng, giai điệu chúc mừng và bộ đếm ngày sinh nhật. | `Interactive UI` `Audio Web API` `Particles`<br>👉 [Xem Trực Tuyến](https://dungauto.github.io/thiepsinhnhat/) |
+| 📘 **[github-mastery-guide](https://github.com/Dungautomation-dev/github-mastery-guide)** | Cẩm nang làm chủ Git & GitHub từ Zero đến Hero, tích hợp hệ thống đa Tab, mô phỏng cây nhánh trực quan, từ điển lệnh tra cứu nhanh. | `HTML5` `CSS3` `JavaScript` `GitHub Pages`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/github-mastery-guide/) |
+| 🌸 **[bonghoadepnhat](https://github.com/Dungautomation-dev/bonghoadepnhat)** | Nền tảng thiệp chúc mừng tương tác nghệ thuật dành tặng phụ nữ, nhận diện ngôn ngữ trình duyệt và tùy biến nội dung theo người nhận. | `Responsive Web` `CSS Animations` `i18n`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/bonghoadepnhat/) |
+| 🎂 **[thiepsinhnhat](https://github.com/Dungautomation-dev/thiepsinhnhat)** | Thiệp chúc mừng sinh nhật tương tác hiện đại với bánh kem, nến thắp sáng, giai điệu chúc mừng và bộ đếm ngày sinh nhật. | `Interactive UI` `Audio Web API` `Particles`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/thiepsinhnhat/) |
 
 ---
 
@@ -71,8 +71,8 @@
   <a href="https://tiktok.com/@dungautomation" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@dungautomation-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="https://github.com/Dungauto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Dungauto-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Dungautomation-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Dungautomation--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:dungautomation@gmail.com">
     <img src="https://img.shields.io/badge/Email-dungautomation@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
