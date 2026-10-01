@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Dungauto"><img src="https://img.shields.io/badge/Developer-Dũng%20Automation-00e5ff?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="Author"></a>
-  <a href="https://github.com/Dungauto"><img src="https://komarev.com/ghpvc/?username=Dungauto&label=LƯỢT+XEM+PROFILE&color=a855f7&style=for-the-badge" alt="Profile Views"></a>
+  <a href="https://github.com/Dungauto"><img src="https://hits.sh/github.com/Dungauto.svg?style=for-the-badge&label=PROFILE+VIEWS&color=a855f7&labelColor=181717" alt="Profile Views"></a>
   <a href="https://tiktok.com/@dungautomation" target="_blank"><img src="https://img.shields.io/badge/TikTok-@dungautomation-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
   <img src="https://img.shields.io/badge/Location-Việt%20Nam-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
@@ -51,14 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dungauto&layout=compact&theme=tokyonight&hide_border=true&bg_color=080b12&title_color=00e5ff&text_color=cbd5e1" height="155" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Thành Tích & Cúp Danh Dự (GitHub Trophies)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dungauto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
