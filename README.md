@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=680&lines=Xin+ch%C3%A0o!+T%C3%B4i+l%C3%A0+D%C5%A9ng+Automation+%F0%9F%91%8B;C%23+.NET+%7C+WPF+Desktop+Application+Developer+%F0%9F%92%BB;AutoCAD+Plugin+Developer+%7C+CAD+Automation+%E2%9A%A1;T%E1%BB%91i+%C6%B0u+hi%E1%BB%87u+n%C4%83ng+%7C+100%25+Native+%7C+B%E1%BA%A3o+m%E1%BA%ADt+m%C3%A3+ngu%E1%BB%93n+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=680&lines=Xin+ch%C3%A0o!+T%C3%B4i+l%C3%A0+D%C5%A9ng+Automation+%F0%9F%91%8B;C%23+.NET+%7C+WPF+Desktop+Application+Developer+%F0%9F%92%BB;AutoCAD+Plugin+Developer+%7C+CAD+Automation+%E2%9A%A1;T%E1%BB%91i+%C6%B0u+hi%E1%BB%87u+n%C4%83ng+%7C+100%25+Native+%7C+B%E1%BA%A3o+m%E1%BA%ADt+m%C3%A3+ngu%E1%BB%93n+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
