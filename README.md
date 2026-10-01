@@ -2,9 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=220&section=header&text=Dũng%20Automation&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kỹ%20Sư%20Phát%20Triển%20Phần%20Mềm%20%7C%20C%23%20WPF%20%7C%20AutoCAD%20Plugin%20Specialist&descAlignY=62&descSize=20&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
+<!-- Language Switcher Bar -->
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-Tiếng%20Việt%20🇻🇳-00e5ff?style=for-the-badge" alt="Tiếng Việt"></a>
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/Language-English%20🇺🇸-a855f7?style=for-the-badge" alt="English"></a>
+</p>
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=680&lines=Xin+ch%C3%A0o!+T%C3%B4i+l%C3%A0+D%C5%A9ng+Automation+%F0%9F%91%8B;C%23+.NET+%7C+WPF+Desktop+Application+Developer+%F0%9F%92%BB;AutoCAD+Plugin+Developer+%7C+CAD+Automation+%E2%9A%A1;T%E1%BB%91i+%C6%B0u+hi%E1%BB%87u+n%C4%83ng+%7C+100%25+Native+%7C+B%E1%BA%A3o+m%E1%BA%ADt+m%C3%A3+ngu%E1%BB%93n+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=700&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=680&lines=Xin+ch%C3%A0o!+T%C3%B4i+l%C3%A0+D%C5%A9ng+Automation+%F0%9F%91%8B;Hi+there!+I'm+Dung+Automation+%F0%9F%91%8B;C%23+.NET+%7C+WPF+Desktop+Application+Developer+%F0%9F%92%BB;AutoCAD+Plugin+Developer+%7C+CAD+Automation+%E2%9A%A1;T%E1%BB%91i+%C6%B0u+hi%E1%BB%87u+n%C4%83ng+%7C+100%25+Native+%7C+B%E1%BA%A3o+m%E1%BA%ADt+m%C3%A3+ngu%E1%BB%93n+%F0%9F%9A%80;High+Performance+%7C+100%25+Native+%7C+Code+Protection+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,6 +29,18 @@
 - 📐 **CAD Automation**: Xây dựng các plugin DLL tự động hóa chuyên sâu cho **AutoCAD** (.NET API / ObjectARX), giúp tăng tốc độ thiết kế kỹ thuật từ 5 - 10 lần.
 - 🔒 **Bảo mật & Trí tuệ**: Tích hợp các giải pháp chống dịch ngược, mã hóa mã nguồn (**ConfuserEx**) và nhận dạng ký tự quang học (**Tesseract OCR**).
 - 💡 **Triết lý lập trình**: *"Mã nguồn sạch, hiệu năng tối ưu, trải nghiệm người dùng tinh tế và tự động hóa mọi thao tác lặp đi lặp lại."*
+
+<details>
+  <summary><b>🇺🇸 Click to read in English (Bấm để xem bản Tiếng Anh)</b></summary>
+  <br>
+  <ul>
+    <li>⚡ <b>Core Expertise</b>: Desktop software development on <b>C# .NET</b>, crafting modern, ultra-lightweight, 100% Native <b>WPF (Windows Presentation Foundation)</b> user interfaces with zero bloat and optimal performance.</li>
+    <li>📐 <b>CAD Automation</b>: Engineering specialized DLL plugins for <b>AutoCAD</b> (.NET API / ObjectARX) that streamline drafting and accelerate design workflows by 5x - 10x.</li>
+    <li>🔒 <b>Security & Intelligence</b>: Anti-reverse engineering code obfuscation (<b>ConfuserEx</b>) and optical character recognition (<b>Tesseract OCR</b>).</li>
+    <li>💡 <b>Philosophy</b>: <i>"Clean code, optimal performance, refined user experience, and automating every repetitive task."</i></li>
+  </ul>
+  <p>👉 <i>For full 100% English profile, view <a href="README_EN.md"><b>README_EN.md</b></a></i></p>
+</details>
 
 ---
 
