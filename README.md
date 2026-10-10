@@ -77,9 +77,16 @@
 
 | Dự án | Mô tả | Công nghệ & Liên kết |
 | :--- | :--- | :--- |
+| 🏬 **[dungautomation-shop](https://github.com/Dungautomation-dev/dungautomation-shop)** | Showroom 3D Tủ Điện DATECO & Công Nghệ Tự Động Hóa phong cách Low-Poly Isometric City rực rỡ, tích hợp Quả Địa Cầu tương tác 360°, hệ thống SCADA nước thải và cánh tay robot 6-DOF. | `React` `Three.js` `R3F` `Drei` `Vite`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/dungautomation-shop/) |
+| 🏍️ **[hanoi-chill](https://github.com/Dungautomation-dev/hanoi-chill)** | Hà Nội Midnight Rush - Game 3D đua xe bão đêm Phố Cổ Hà Nội phong cách Road Rash retro cực đã, né xe tải & thu thập xăng tốc độ cao. | `Three.js` `WebGL` `3D Game` `Audio API`<br>👉 [Chơi Trực Tuyến](https://dungautomation-dev.github.io/hanoi-chill/) |
+| 🛠️ **[curriculum-vitae](https://github.com/Dungautomation-dev/curriculum-vitae)** | Bộ công cụ tạo CV chuyên nghiệp đa ngành nghề (100 mẫu CV chuẩn A4), tùy biến linh hoạt, đánh giá kỹ năng, xuất PDF sắc nét và lưu/nạp hồ sơ `.dungauto`. | `HTML5` `CSS3` `JavaScript` `jsPDF`<br>👉 [Dùng Trực Tuyến](https://dungautomation-dev.github.io/curriculum-vitae/) |
+| 💍 **[thiepcuoionline](https://github.com/Dungautomation-dev/thiepcuoionline)** | Thiệp cưới online sang trọng với dấu sáp niêm phong 3D Wax Seal tương tác, hiệu ứng trái tim bay, bản đồ Google Maps, RSVP và tạo link khách mời cá nhân hóa hàng loạt. | `Canvas 2D/3D` `CSS Animations` `Responsive`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/thiepcuoionline/) |
 | 📘 **[github-mastery-guide](https://github.com/Dungautomation-dev/github-mastery-guide)** | Cẩm nang làm chủ Git & GitHub từ Zero đến Hero, tích hợp hệ thống đa Tab, mô phỏng cây nhánh trực quan, từ điển lệnh tra cứu nhanh. | `HTML5` `CSS3` `JavaScript` `GitHub Pages`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/github-mastery-guide/) |
 | 🌸 **[bonghoadepnhat](https://github.com/Dungautomation-dev/bonghoadepnhat)** | Nền tảng thiệp chúc mừng tương tác nghệ thuật dành tặng phụ nữ, nhận diện ngôn ngữ trình duyệt và tùy biến nội dung theo người nhận. | `Responsive Web` `CSS Animations` `i18n`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/bonghoadepnhat/) |
 | 🎂 **[thiepsinhnhat](https://github.com/Dungautomation-dev/thiepsinhnhat)** | Thiệp chúc mừng sinh nhật tương tác hiện đại với bánh kem, nến thắp sáng, giai điệu chúc mừng và bộ đếm ngày sinh nhật. | `Interactive UI` `Audio Web API` `Particles`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/thiepsinhnhat/) |
+| 🎄 **[thiepgiangsinh](https://github.com/Dungautomation-dev/thiepgiangsinh)** | Thiệp chúc mừng Giáng sinh Merry Christmas trực tuyến với hiệu ứng tuyết rơi lung linh và giai điệu ấm áp. | `Canvas Particles` `Holiday Theme`<br>👉 [Xem Trực Tuyến](https://dungautomation-dev.github.io/thiepgiangsinh/) |
+| 🔐 **[github-pat-guide](https://github.com/Dungautomation-dev/github-pat-guide)** | Hướng dẫn chi tiết từ A-Z về cách tạo, sử dụng, phân quyền và bảo mật GitHub Personal Access Token (PAT). | `Markdown` `Security` `Automation Guide` |
+| 🤖 **[esp32-ai](https://github.com/Dungautomation-dev/esp32-ai)** | Dự án nghiên cứu và triển khai mô hình AI trên vi điều khiển nhúng ESP32 (Edge Computing & IoT). | `Python` `ESP32` `Edge AI` `Firmware` |
 
 ---
 
