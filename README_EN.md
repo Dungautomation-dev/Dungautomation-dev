@@ -85,6 +85,12 @@
   </a>
 </p>
 
+---
+
+## Stars ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dungautomation-dev/Dungautomation-dev&type=Date)](https://star-history.com/#Dungautomation-dev/Dungautomation-dev&Date)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=100&section=footer" width="100%" alt="Footer" />
 </p>
